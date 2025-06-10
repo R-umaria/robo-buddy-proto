@@ -1,3 +1,5 @@
 .venv/
 models/
 **/build/
+models/*.gguf
+
